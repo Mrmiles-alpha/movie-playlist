@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<title>Movie Ranking</title>
+<title>Movies Tracks</title>
 <style>
     body{
         background-color:blanchedalmond;
@@ -70,7 +70,47 @@
 <audio controls >
     <source src="frozen-landscape-116197.mp3">
 </audio>
-
+<br />
+<audio controls >
+    <source src="Frozen - Let it Go.mp3">
+</audio>
+<hr />
+<img src="city.jpeg" alt="city Hunter" width="200px">
+<h3>City Hunter</h3>
+<p>"City Hunter" films, based on the popular manga series, blend action, comedy, and romance. Centered around the charismatic private detective Ryo Saeba, these movies deliver 
+    high-octane thrills and witty humor, captivating fans
+     with their dynamic storytelling and vibrant energy.</p>
+     <a href="https://www.google.com/search?sca_esv=09af93417327f4e0&sxsrf=ADLYWIKSt5O2LLtgDD78AG5d1vDpRU5ZmQ:1725065242291&q=city+hunter&udm=2&fbs=AEQNm0A-2qeMemLzzt_2BVemHLFNuCSl5jMwuDXSDytcTb5xOFugulBwSVKrCaczAYRUt2Z5_be3-rr2W2-c6mcvRLEBy7B8OoFBW2ddfwIZ-c2oYTCDQ1iCuvHelksIAXRGLHukGddKBP6yt5C23FV63C6WSY7rsohu2QCQPF
+     _BM43tJgshsEo&sa=X&ved=2ahUKEwiruOzngJ6IAxX82AIHHfxJLEQQtKgLegQIBxAB">View more Images</a>
+     <br />
+     
+     <audio controls>
+        <source src="in-the-city-110589.mp3">
+     </audio>
+     <hr />
+     <img src="games.jpeg" alt="throne" width="200px">
+     <h3>Game Of Throne</h3>
+     <p>"Game of Thrones"  a groundbreaking TV series known for its complex characters, intricate political plots, and epic battles. Set in the fantasy world of Westeros,
+         it captivated audiences with its dramatic storytelling and stunning visuals.</p>
+<a href="https://www.google.com/search?sca_esv=2c50b593bf3afd6b&sxsrf=ADLYWIKYb4HA6Usfrl7Kz4yQiFCwd-1E8w:1725068746607&q=games+of+thrones&udm=2&fbs=AEQNm0A-2qeMemLzzt_2BVemHLFNuCSl5jMwuDXSDytcTb5xOFugulBwSVKrCaczAYRUt2Z5_be3-rr2W2-c6mcvRLEBy7B8OoFBW2ddfwIZ-c2oYTCDQ1iCuvHelksIAXRGLHukGddKBP6yt5C23FV63C6WSY7rsohu2QCQPF
+_BM43tJgshsEo&sa=X&ved=2ahUKEwjQ7-rujZ6IAxVO6wIHHW35PP8QtKgLegQIDxAB&biw=1366&bih=641&dpr=1">View more Images</a>
+<br />
+<audio controls>
+    <source src="game-of-thrones-theme-song-ringtone-30782.mp3">
+</audio>
+<hr />
+<img src="tit.jpeg" alt="jack and rose" width="200px">
+<h3>Titanic</h3>
+<p>"Titanic" films, including James Cameron's iconic 1997 version, 
+    depict the tragic 1912 maritime disaster with emotional depth and historical accuracy. 
+    The movies blend romance and tragedy, bringing to life the ill-fated voyage through stunning 
+    visuals and memorable storytelling.</p>
+    <a href="https://www.google.com/search?sca_esv=6f5bb68e93f56220&sxsrf=ADLYWILfiRlTV2JOD9x9AtgFFax-E0n55g:1725070854694&q=titanic+photos&udm=2&fbs=AEQNm0A-2qeMemLzzt_2BVemHLFNuCSl5jMwuDXSDytcTb5xOFugulBwSVKrCaczAYRUt2Z5_be3-rr2W2-c6mcvRLEBy7B8OoFBW2ddfwIZ-c2oYTCDQ1iCuvHelksIAXRGLHukGddKBP6yt5C23FV63C6WSY7rsohu2QCQPF_
+    BM43tJgshsEo&sa=X&ved=2ahUKEwi-q4bclZ6IAxVExAIHHUOdALIQtKgLegQIFRAB">View more Images</a>
+    <br/>
+    <audio controls>
+        <source src="51421pjwka_my-heart-will-go-on-trax-1.mp3">
+    </audio>
 
 </body>
 
